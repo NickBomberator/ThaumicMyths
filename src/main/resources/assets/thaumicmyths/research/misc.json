@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {
+      "key": "THAUMIC_MYTHS_ROOT",
+      "category": "THAUMIC_MYTHS",
+      "name": "research.thaumicmyths_root.title",
+      "icons": ["thaumicmyths:textures/gui/research_root.png"],
+      "parents": ["~FIRSTSTEPS"],
+      "meta": ["ROUND", "HIDDEN"],
+      "location": [0,0],
+      "stages":[
+        {
+          "text": "research.thaumicmyths_root.text0"
+        }
+      ]
+    }
+  ]
+}
