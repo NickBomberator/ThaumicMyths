@@ -1,0 +1,12 @@
+[{
+  "modid": "thaumicmyths",
+  "name": "Thaumic Myths",
+  "description": "Ever felt like the Crimson Cult felt too shallow?",
+  "version": "1.0.0-ALPHA",
+  "mcversion": "1.12.2",
+  "logoFile": "assets/thaumicmyths/textures/logo.png",
+  "url": "github.com/nickbomberator/thaumicmyths",
+  "updateJSON": "",
+  "authorList": ["NickBomberator"],
+  "credits": "Azanor for making Thaumcraft"
+}]
